@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mohit Tiwari 👋
 
-<!--
-**mohittiwari-ds/mohittiwari-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Currently learning C, Python & Data Science  
+📊 Aspiring Data Scientist  
+🚀 Building my programming and problem-solving skills step by step
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year Computer Science Engineering 
+student interested in Data Science and technology.
+
+Currently, I'm focusing on
+strengthening my programming fundamentals 
+and gradually building real-world projects.
+
+## Currently Learning
+
+- C Programming
+- Python
+- Data Science Fundamentals
+- Git & GitHub
+
+## Goals
+
+- Build strong programming fundamentals
+- Develop practical projects
+- Learn Data Science systematically
+- Build a strong technical portfolio
+
+## Connect With Me
+
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
